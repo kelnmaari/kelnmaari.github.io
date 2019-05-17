@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Dmitry Keln"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am system administrator \ DevOps Administrator."
+  bio              : "I am system administrator and DevOps Administrator."
   location         : "Moscow, Russia"
   email            :
   links:
