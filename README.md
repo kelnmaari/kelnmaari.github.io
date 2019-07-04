@@ -11,6 +11,7 @@ Minimal Mistakes is a flexible two-column Jekyll theme, perfect for building per
 
 **If you enjoy this theme, please consider [supporting me](https://www.paypal.me/mmistakes) to continue developing and maintaining it.**
 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkelnmaari%2Fkelnmaari.github.io.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkelnmaari%2Fkelnmaari.github.io?ref=badge_large)
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/mmistakes)
 
 **Note:** The theme uses the [jekyll-include-cache](https://github.com/benbalter/jekyll-include-cache) plugin which will need to be installed in your `Gemfile` and added to the `plugins` array of `_config.yml`. Otherwise you'll throw `Unknown tag 'include_cached'` errors at build.
